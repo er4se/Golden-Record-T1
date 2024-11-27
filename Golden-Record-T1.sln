@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Golden-Record-T1", "Golden-Record-T1\Golden-Record-T1.csproj", "{9B1D5D5F-EB1D-4A47-85A1-6A98C9211FAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B1D5D5F-EB1D-4A47-85A1-6A98C9211FAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B1D5D5F-EB1D-4A47-85A1-6A98C9211FAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B1D5D5F-EB1D-4A47-85A1-6A98C9211FAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B1D5D5F-EB1D-4A47-85A1-6A98C9211FAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {140D7CBC-CD12-486B-B0E8-B7C17FF0F6D9}
+	EndGlobalSection
+EndGlobal
