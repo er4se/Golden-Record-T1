@@ -6,11 +6,19 @@ class Program
 {
     static void Main()
     {
+        // Путь к файлам
+        string filePath;
+        string inputFilePath;
+
+        Console.Write(@"Введите путь к файлу БД: ");
+        filePath = Console.ReadLine() + string.Empty; 
+        Console.WriteLine();
+
         // Путь к исходному файлу
-        string inputFilePath = @"D:\C#\ds_dirty_fin_202410041147.csv";
+        inputFilePath = filePath + @"\ds_dirty_fin_202410041147.csv";
 
         // Путь к результативному файлу
-        string outputFilePath = @"D:\C#\output.csv";
+        string outputFilePath = filePath + @"\output.csv";
 
         try
         {
