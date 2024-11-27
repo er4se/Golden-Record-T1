@@ -6,7 +6,7 @@ class Program
 {
     static void Main()
     {
-        // Путь к файлам
+        // Путь к папке файла
         string filePath;
         string inputFilePath;
 
